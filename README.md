@@ -1,4 +1,4 @@
-# ⚡ Painel de Auditoria e Inteligência de Faturamento de Energia (Lux)
+# ⚡ Painel de Auditoria e Inteligência de Faturamento de Energia 
 
 > Solução analítica desenvolvida para automatizar a auditoria de faturas de energia e o monitoramento de consumo de unidades consumidoras em larga escala, integrando dados de grandes distribuidoras (Enel SP, CPFL Paulista, Light e Elektro).
 
